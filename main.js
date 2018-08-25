@@ -16,7 +16,8 @@ const neilIsms = [
     "Causing trouble?",
     "A lot of these guys look their best immediately after a haircut, but I look best about a week after a haircut. I'm not a fresh haircut kinda of guy.",
     "There he is.",
-    "He's not allowed 50 feet of that place."
+    "He's not allowed 50 feet of that place.",
+    "Aye."
 ];
 
 const backgroundColors = [
